@@ -3,7 +3,7 @@ import './Validator.css';
 import Validator from './Validator';
 
 class App extends Component {
-  state = {
+  state={
     visible: true
   };
 
